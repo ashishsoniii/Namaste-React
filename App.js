@@ -1,5 +1,9 @@
-// index.js
-import React from "react";
-import ReactDOM from "react-dom";
+import React from 'react'
 
-ReactDOM.render(<h1>Hello world!</h1>, document.getElementById("root"));
+function App() {
+  return (
+    <h1>App</h1>
+  )
+}
+
+export default App
